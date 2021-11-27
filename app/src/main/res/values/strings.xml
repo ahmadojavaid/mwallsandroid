@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Material Wallpaper</string>
+
+    <!-- admob ads -->
+    <string name="admob_publisher_id">ca-app-pub-5107556562590198/7524758862</string>
+    <string name="admob_interstitial_id">ca-app-pub-5107556562590198/9001492069</string>
+
+    <!-- Set to @string/ad_off to diable admob and to ad_on enable admob -->
+    <string name="admob_visibility">@string/admob_on</string>
+
+    <!--Value Enable and Disable AdMob-->
+    <string name="admob_on">0</string>
+    <string name="admob_off">2</string>
+
+    <!-- parse push notification -->
+    <string name="parse_application_id">Ti96QDAV5aOxfmPSBWlJyxmiDhlx8MCUwpQ0ZCNV</string>
+    <string name="parse_client_key">bbkkeyyXef1VrnSG2Krv5fPQYFFPo9LAPGBstvz1</string>
+
+    <!-- About Content -->
+    <string name="app_version">Version 1.0.0</string>
+    <string name="app_copyright">Copyright @Solodroid Developer</string>
+    <string name="app_email">developer.solodroid@gmail.com</string>
+
+    <string name="play_more_apps">https://play.google.com/store/apps/developer?id=Solodroid</string>
+
+    <!-- Set to @string/drawer_info_on to enable info-->
+    <!-- Set to @string/drawer_info_off to disable info-->
+    <string name="drawer_info_visibility">@string/drawer_info_on</string>
+    <!--Value Hide Info in Drawer Header-->
+    <string name="drawer_info_on">0</string>
+    <string name="drawer_info_off">2</string>
+    
+    <string name="menu_favorite">My Favorite</string>
+    <string name="menu_about">About</string>
+    <string name="menu_moreapp">More App</string>
+    <string name="menu_rateapp">Rate App</string>
+    <string name="menu_back">Previous Wallpaper</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_slideshow">SlideShow</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_zoom">Pinch Zoom</string>
+    <string name="menu_fav">Favorite</string>
+    <string name="menu_setaswallpaper">Set as Wallpaper</string>
+    <string name="menu_next">Next Wallpaper</string>
+    <string name="img_no">No Favorite Found</string>
+    <string name="setaswallpaper">Set As Wallpaper</string>
+
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="recent_wallpaper">Recent Wallpaper</string>
+    <string name="category_wallpaper">Category</string>
+    <string name="favorite_wallpaper">Favorite</string>
+    <string name="about">About</string>
+    <string name="action_search">Search</string>
+    <string name="action_filter">Filter</string>
+    <string name="myaccount">My Account</string>
+    <string name="stats">Stats</string>
+    <string name="search">Search</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="desc">desc</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
